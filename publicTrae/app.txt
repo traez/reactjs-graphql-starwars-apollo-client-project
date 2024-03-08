@@ -1,0 +1,33 @@
+Timestamp: 0:19:14
+------------------------------------------------------------------------
+Things i learnt
+
+We
+------------------------------------------------------------------------
+Search
+"Client side GraphQL React Apollo"
+https://www.youtube.com/results?search_query=app+project+GraphQL+React+Apollo&sp=EgIIBQ%253D%253D
+https://www.youtube.com/results?search_query=Client+side+GraphQL+React+Apollo
+https://www.youtube.com/results?search_query=Client-side+GraphQL+with+React+%26+Apollo
+------------------------------------------------------------------------
+Client-side GraphQL with React & Apollo
+https://www.apollographql.com/tutorials/client-side-graphql-react/01-feature-overview-and-setup
+Github https://github.com/apollographql-education/odyssey-client-side-graphql
+Sandbox http://studio.apollographql.com/sandbox/schema/reference
+Endpoint: https://odyssey-lift-off-server.herokuapp.com/
+
+How to Setup a basic ReactJS, GraphQL and Apollo Client project | ReactJS | GraphQL | Apollo Client
+https://www.youtube.com/watch?v=p4lbvjrAmME
+https://github.com/kaushalluffa/react-apollo-setup
+28:23
+https://studio.apollographql.com/public/star-wars-swapi/variant/current/explorer
+
+Intro to GraphQL with TypeScript & Apollo Server
+https://www.apollographql.com/tutorials/intro-typescript
+Github https://github.com/apollographql-education/intro-typescript
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
