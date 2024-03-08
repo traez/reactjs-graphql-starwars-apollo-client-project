@@ -15,7 +15,7 @@ const App = () => {
 
   function handleSeeMore() {
     if (limit < data?.allFilms?.totalCount) {
-     setLimit((prevLimit) => prevLimit + 1);
+      setLimit((prevLimit) => prevLimit + 1);
     } else {
       setLimit(1);
     }
@@ -23,10 +23,17 @@ const App = () => {
 
   return (
     <div className="wrapper">
+      <span>
+        <a
+          href="https://github.com/traez/reactjs-graphql-starwars-apollo-client-project"
+          target="_blank"
+        >
+          Reactjs Graphql Starwars Apollo Client Project
+        </a>
+      </span>
       <h1>List Items</h1>
       <div className="item-container">
-
-      {data &&
+        {data &&
           data?.allFilms &&
           data?.allFilms?.films?.length > 0 &&
           data?.allFilms?.films?.map((film) => (
@@ -34,7 +41,6 @@ const App = () => {
               {film?.title}
             </div>
           ))}
-
       </div>
       <button onClick={handleSeeMore}>
         {data?.allFilms?.totalCount === limit ? "Change to 1" : "See more"}
